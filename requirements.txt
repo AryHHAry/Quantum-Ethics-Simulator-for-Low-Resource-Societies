@@ -1,0 +1,6 @@
+numpy
+networkx
+fastapi
+uvicorn
+pytest
+qiskit   # optional; quantum simulation examples that can be toggled
